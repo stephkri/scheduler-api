@@ -1,5 +1,7 @@
 # Interview Scheduler API
 
+**This API is meant to be used in conjunction with the `scheduler` repository. For further instructions, please consult `scheduler`.**
+
 ## Setup
 
 Install dependencies with `npm install`.
